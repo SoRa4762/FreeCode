@@ -1,2 +1,2 @@
 # FreeCode
-Tryin FreeCode Learnin Github
+Tryin FreeCode, Learnin Github!!
